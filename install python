@@ -6,3 +6,5 @@ pip install cryptography
 pip install --upgrade pip
 pip install paramiko
 pip install netmiko
+
+chmod + x ./script4.py
